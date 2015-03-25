@@ -21,6 +21,3 @@ feed:
 
 pagination: true
 ---
-
-# My Gravtastic Blog
-## A tale of **awesomazing** adventures

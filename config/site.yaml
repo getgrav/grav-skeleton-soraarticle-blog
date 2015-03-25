@@ -8,3 +8,19 @@ metadata:
     description: 'Sora Article is a minimal Theme designed for blogger, converted to Grav.'
 taxonomies: [category,tag,month]
 
+mainmenu:
+    - text: Home
+      url: "#"
+    - text: Layout
+      url: "#" 
+    - text: Shortcodes
+      url: "#" 
+    - text: Pages
+      url: "#" 
+    - text: Contact
+      url: "#"  
+
+masterslider:
+    - image: 1.jpg
+    - image: 2.jpg
+    - image: 3.jpg
