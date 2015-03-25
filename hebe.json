@@ -1,0 +1,24 @@
+{
+   "project":"grav-skeleton-soraarticle-blog",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "skeleton":[
+               {
+                  "source":"/",
+                  "destination":"/user"
+               }
+            ],
+            "error plugin":[{
+               "project":"grav-plugin-error"
+            }],
+            "problems plugin":[{
+               "project":"grav-plugin-problems"
+            }],
+            "soraarticle theme":[{
+               "project":"grav-theme-soraarticle"
+            }]
+         }
+      }
+   }
+}

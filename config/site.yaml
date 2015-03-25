@@ -1,0 +1,10 @@
+title: SoraArticle
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+blog:
+  route: ''
+metadata:
+    description: 'Sora Article is a minimal Theme designed for blogger, converted to Grav.'
+taxonomies: [category,tag,month]
+
