@@ -19,6 +19,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
         branch: develop
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: develop    
     simple_form:
         url: https://github.com/nunopress/grav-plugin-simple_form
         path: user/plugins/simple_form
@@ -64,6 +68,10 @@ links:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
         scm: github
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
+        scm: github    
     simple_form:
         src: grav-plugin-simple_form
         path: user/plugins/simple_form

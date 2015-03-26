@@ -2,6 +2,7 @@
 title: Just Some Text Today
 date: 13:34 06/23/2014 
 continue_link: false
+author: Grav
 taxonomy:
     category: blog
     tag: [journal]

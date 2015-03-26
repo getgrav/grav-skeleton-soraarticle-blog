@@ -1,6 +1,7 @@
 ---
 title: Random Thoughts
-date: 13:34 05/26/2014 
+date: 13:34 05/26/2014
+author: Grav 
 taxonomy:
     category: blog
     tag: [journal]

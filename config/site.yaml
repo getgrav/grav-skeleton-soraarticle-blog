@@ -20,7 +20,56 @@ mainmenu:
     - text: Contact
       url: "#"  
 
+# MasterSlider Options
 masterslider:
     - image: 1.jpg
     - image: 2.jpg
     - image: 3.jpg
+
+# Footer
+# Feedburner
+feedburner:
+  title: Follow by Email
+  id: SoraArticle
+  text: "Subscribe here to get our newsletter, it is safe just Put your Email and Press Enter"
+
+# Labels
+labels:
+  title: Labels
+  items:
+    - url: #
+      label: Cricket
+    - url: #
+      label: Fashion
+    - url: #
+      label: Fun
+    - url: #
+      label: India
+    - url: #
+      label: Punjab
+    - url: #
+      label: Sport
+    - url: #
+      label: Tech
+    - url: #
+      label: World    
+
+# Footer module 
+footer:
+  title: Lipsum
+  content: "Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus.<br /><br />Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Non equidem invideo, miror magis posuere velit aliquet."
+  
+# Copyright
+copyright:
+    text1: Copyright 
+    year: 2015
+    url: http://sora-article-soratemplates.blogspot.in/
+    text2: Sora Article
+
+copyright2:
+    text1: ", Ported by" 
+    url: http://getgrav.org/
+    text2: Grav Team
+
+
+

@@ -1,6 +1,7 @@
 ---
 title: London Industry at Night
-date: 13:34 06/07/2014 
+date: 13:34 06/07/2014
+author: Grav
 taxonomy:
     category: blog
     tag: [city, night, photography]
