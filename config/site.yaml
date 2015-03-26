@@ -26,6 +26,37 @@ masterslider:
     - image: 2.jpg
     - image: 3.jpg
 
+masterslider_setup:
+    width           : 1140
+    height          : 500
+    space           : 0
+    start           : 1
+    grabCursor      : "false"
+    swipe           : "true"
+    mouse           : "false"
+    layout          : "fullwidth"
+    wheel           : "false"
+    autoplay        : "true"
+    instantStartLayers: "false"
+    loop            : "true"
+    shuffle         : "false"
+    preload         : 2
+    heightLimit     : "true"
+    autoHeight      : "false"
+    smoothHeight    : "true"
+    endPause        : "false"
+    overPause       : "true"
+    fillMode        : "fill"
+    centerControls  : "false"
+    layersMode      : "center"
+    hideLayers      : "false"
+    fullscreenMargin: 0
+    speed           : 20
+    dir             : "h"
+    parallaxMode    : 'swipe'
+    view            : "basic"
+
+
 # Footer
 # Feedburner
 feedburner:
