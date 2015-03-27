@@ -5,3 +5,5 @@ taxonomy:
 ---
 
 ![About Me](about.png)
+
+**My name is John Snow**. I’m a blogger...
