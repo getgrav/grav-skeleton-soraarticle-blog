@@ -10,7 +10,8 @@ gallery:
     - image: 3.jpeg
       url: "#"  
     - image: 4.jpeg
-      url: "#"  
+      url: "#" 
+image_as_link: true
 ---
 
 
