@@ -1,7 +1,10 @@
 title: SoraArticle
 author:
-  name: Joe Bloggs
+  name: Grav
   email: 'joe@test.com'
+  description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+  url: http://getgrav.org/
+  logo: logo.jpg
 blog:
   route: ''
 metadata:
