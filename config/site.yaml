@@ -13,8 +13,6 @@ taxonomies: [category,tag,month]
 google_translate_token: "a4a3caaf1d41a924-5fa21ae3833dd6c1-g99933840045dca1c-26"
 
 mainmenu:
-    - text: Home
-      url: "#"
     - text: Layout
       url: "#" 
     - text: Shortcodes

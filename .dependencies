@@ -31,10 +31,6 @@ git:
         url: https://github.com/nunopress/grav-plugin-jscomments
         path: user/plugins/jscomments
         branch: develop
-    breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
-        branch: develop
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
@@ -79,10 +75,6 @@ links:
     jscomments:
         src: grav-plugin-jscomments
         path: user/plugins/jscomments
-        scm: github
-    breadcrumbs:
-        src: grav-plugin-breadcrumbs
-        path: user/plugins/breadcrumbs
         scm: github
     taxonomylist:
         src: grav-plugin-taxonomylist
