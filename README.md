@@ -11,6 +11,8 @@ SoraArticle skeleton is a port of the [SoraArticle](http://sora-article-soratemp
 * Clean Layout
 * Blog Layout
 * Minimalistic
+* Customizable MasterSlider in header
+* FeedBurner support
 * Social Sharing
 * Browser Compatibility
 * Supports YouTube
