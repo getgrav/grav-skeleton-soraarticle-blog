@@ -7,17 +7,22 @@ SoraArticle skeleton is a port of the [SoraArticle](http://sora-article-soratemp
 # Features
 
 * Fully responsive
-* Automatic and custom navigation menus included
+* Custom navigation menus included
 * Clean Layout
-* 4 Blog Layout
+* Blog Layout
 * Minimalistic
 * Social Sharing
-* Retina Ready
 * Browser Compatibility
-* Supports Video
-* Supports Audio
-* Ads Ready
-* SEO Friendly
+* Supports YouTube
+* Supports SoundCloud
+* Simple Gallery
+* Google Translate support
+* SimpleSearch support
+* Feeds
+* RelatedPosts plugin support
+* Archives plugin support
+* JSComments plugin support
+* SimpleForm plugin support
 
 ## Basic Setup for a new Grav site
 
