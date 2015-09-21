@@ -1,3 +1,9 @@
+# v1.0.2
+## 04/07/2015
+
+1. [](#new)
+    * added SimpleForm landing page
+
 # v1.0.1
 ## 04/07/2015
 
