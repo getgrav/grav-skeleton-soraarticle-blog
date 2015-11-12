@@ -1,9 +1,10 @@
-# v1.0.3
+# v1.1.0
 ## 11/12/2015
 
 1. [](#new)
     * Fix for responsive videos
     * Couple fixes for JSComments
+    * SimpleForm replaced with Forms plugin
 
 # v1.0.2
 ## 09/21/2015
