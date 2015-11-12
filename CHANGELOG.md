@@ -1,3 +1,9 @@
+# v1.1.1
+## 11/12/2015
+
+1. [](#bugfix)
+    * Removing JSComments from dependencies due to numerous errors
+
 # v1.1.0
 ## 11/12/2015
 
